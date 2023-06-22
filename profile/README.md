@@ -8,67 +8,65 @@ Last updated 2023-05-30
 ---
 
 ## Table of Contents
-* [Data Connectors](#data-connectors)
+* [Automations](#automations)
+* [Data Connectors and Transformers](#data-connectors-and-transformers)
 * [Design Add-Ins](#design-add-ins)
-* [Examples](#examples)
-* [Templates](#templates)
+* [User Defined Steps and Elements](#user-defined-steps-and-elements)
 * [Third-Party Integrations](#third-party-integrations)
-* [Tools](#tools)
-* [User Extensions](#user-exensions)
+* [Misc](#misc)
 
 ---
-## Data Connectors
+## Automations
 **[`^        back to top        ^`](#simio-github-projects-index)**
-* [AmazonS3CSVGridData](https://github.com/SimioLLC/AmazonS3CSVGridData) - Retreive data from Amazon S3
-* [ImportObjectsFromExcelUsingEPPlus](https://github.com/SimioLLC/ImportObjectsFromExcelUsingEPPlus) - Simio Add-In that imports Excel spreadsheet using the open source EPPlus package (from GitHub).
-* [MQTTSync](https://github.com/SimioLLC/MQTTSync) - Runtime integration with MQTT
+* [RunSimioPortalExpConsole](https://github.com/SimioLLC/RunSimioPortalExpConsole) - Console application to build workflows and tasks on Simio Portal. Uses Simio Portal as Web API
+* [RunSimioSchedule](https://github.com/SimioLLC/RunSimioSchedule) - Run a Simio Schedule in "Headless" mode using Simio Desktop
+
+---
+## Data Connectors and Transformers
+**[`^        back to top        ^`](#simio-github-projects-index)**
+* [AmazonS3CSVGridData](https://github.com/SimioLLC/AmazonS3CSVGridData) - Retreive data from / to Amazon S3
+* [PostgreSQLGridData](https://github.com/SimioLLC/PostgreSQLGridData) - Retreive data from / to PostgreSQL
 * [SQLiteGridData](https://github.com/SimioLLC/SQLiteGridData) - Simio Data Connector To / From SQLite 
+* [XSLTTransformerGridData](https://github.com/SimioLLC/XSLTTransformerGridData) - Simio Data Transformer to transform data from one or more Simio Data Table into another Simio Data Table using an XSLT. 
 
 ---
 ## Design Add-Ins
 **[`^        back to top        ^`](#simio-github-projects-index)**
-* [DDMRPCalculatorButtons](https://github.com/SimioLLC/DDMRPCalculatorButtons) - Design Add-in that has 4 buttons
+* [AutoCADCreateLinks](https://github.com/SimioLLC/AutoCADCreateLinks) - Simio Add-In Used To Create Links usign an AutoCAD export
+* [EncryptTableValuesAddIn](https://github.com/SimioLLC/EncryptTableValuesAddIn) - Simio Add-In Used To Easily Encrypt Table Values
+* [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
+* [GraphSequence](https://github.com/SimioLLC/GraphSequence) - Used to create a graph of a task sequence.
+* [MatlabInterfacing](https://github.com/SimioLLC/MatlabInterfacing) - Interfacing to MATLAB via Custom Steps, etc.
+* [ImportObjectsFromExcelUsingEPPlus](https://github.com/SimioLLC/ImportObjectsFromExcelUsingEPPlus) - Simio Add-In that imports Excel spreadsheet using the open source EPPlus package (from GitHub).
+* [SdxHarness](https://github.com/SimioLLC/SdxHarness) - This software facilitates the creation of Simio objects in the Simio Design window by creating a common Open SDX (Simio Data Exchange) XML file. This dataset can be imported into Simio desktop's Facility view using an AddIn (such as the Visio AddIn).
+* [VisioAddin](https://github.com/SimioLLC/VisioAddin) - Design time user extension to pull in Visio diagrams
 
 ---
-## Examples
+## User Defined Steps and Elements
 **[`^        back to top        ^`](#simio-github-projects-index)**
+* [BeepStep](https://github.com/SimioLLC/BeepStep) - Simplest of all user-defined steps; it just beeps!
 * [CustomCalculationSteps](https://github.com/SimioLLC/CustomCalculationSteps) - Samples using Custom Steps to interact with Simio at run-time
 * [DbWriteMultipleRows](https://github.com/SimioLLC/DbWriteMultipleRows) - This repository show user steps and element used to read and write data to a database using a Simio Output Table
 * [EmulatingWorldTime](https://github.com/SimioLLC/EmulatingWorldTime) - Demonstrates how Simio can be customized to run in world/real time and communicate with an external device
-* [EntityDataHandling](https://github.com/SimioLLC/EntityDataHandling) - So let's say you have large amounts of custom data that you wish entities to access as they roam about your simulation model... and you are willing to write custom .NET code to access and use this data. If this sounds like what your are looking for, then this example might be for you.
-* [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
-* [SimioGitExample](https://github.com/SimioLLC/SimioGitExample) - How to use Git for version control, allowing multiple users to work on a Simio Project
-* [UsingGitHub](https://github.com/SimioLLC/UsingGitHub) - Documents and resources to help use GitHub in the Simio Forum
-
----
-## Templates
-**[`^        back to top        ^`](#simio-github-projects-index)**
-* [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
+* [MqttSteps](https://github.com/SimioLLC/MqttSteps) - UserDefined Steps form MQTT actions (Publish, Subscribe, RPC)
+* [MQTTSync](https://github.com/SimioLLC/MQTTSync) - Runtime integration with MQTT 
+* [NotifyExternalStep](https://github.com/SimioLLC/NotifyExternalStep) - A Process Step to notify something external to Simio and optionally stop. Used when running Experiments headless.
+* [RunExecutableStep](https://github.com/SimioLLC/RunExecutableStep) - A Simio user-defined Step to run and executable with arguments
+* [WebAPISync](https://github.com/SimioLLC/WebAPISync) - Send/receive data via HTTP during a step. Starts a WebHost
 
 ---
 ## Third-Party Integrations
 **[`^        back to top        ^`](#simio-github-projects-index)**
 * [AVEVAMES](https://github.com/SimioLLC/AVEVAMES) - AVEVA MES (Manufacturing Execution System) Integration Templates
-* [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
-* [MatlabInterfacing](https://github.com/SimioLLC/MatlabInterfacing) - Interfacing to MATLAB via Custom Steps, etc.
-* [MqttSteps](https://github.com/SimioLLC/MqttSteps) - UserDefined Steps form MQTT actions (Publish, Subscribe, RPC)
+* [KinaxisRapidResponse](https://github.com/SimioLLC/KinaxisRapidResponse) - Kinaxis Rapid Response Integration Templates
 * [SAPCloudPlatformIntegration](https://github.com/SimioLLC/SAPCloudPlatformIntegration) - Integration with SAP. Examples, models, etc.
 
 ---
-## Tools
+## Misc
 **[`^        back to top        ^`](#simio-github-projects-index)**
-* [RunSimioPortalExpConsole](https://github.com/SimioLLC/RunSimioPortalExpConsole) - Console application to build workflows and tasks on Simio Portal. Uses Simio Portal as Web API
-* [RunSimioSchedule](https://github.com/SimioLLC/RunSimioSchedule) - Run a Simio Schedule in "Headless" mode
-* [SdxHarness](https://github.com/SimioLLC/SdxHarness) - This software facilitates the creation of Simio objects in the Simio Design window by creating a common Open SDX (Simio Data Exchange) XML file. This dataset can be imported into Simio desktop's Facility view using an AddIn (such as the Visio AddIn).
-
----
-## User Exensions
-**[`^        back to top        ^`](#simio-github-projects-index)**
-* [BeepStep](https://github.com/SimioLLC/BeepStep) - Simplest of all user-defined steps; it just beeps!
-* [EncryptTableValuesAddIn](https://github.com/SimioLLC/EncryptTableValuesAddIn) - Simio Add-In Used To Easily Encrypt Table Values
+* [EntityDataHandling](https://github.com/SimioLLC/EntityDataHandling) - So let's say you have large amounts of custom data that you wish entities to access as they roam about your simulation model... and you are willing to write custom .NET code to access and use this data. If this sounds like what your are looking for, then this example might be for you.
 * [ExportPlanData](https://github.com/SimioLLC/ExportPlanData) - Export Plan Data and use IModelHelper
-* [GraphSequence](https://github.com/SimioLLC/GraphSequence) - Used to create a graph of a task sequence.
-* [NotifyExternalStep](https://github.com/SimioLLC/NotifyExternalStep) - A Process Step to notify something external to Simio and optionally stop. Used when running Experiments headless.
-* [RunExecutableStep](https://github.com/SimioLLC/RunExecutableStep) - A Simio user-defined Step to run and executable with arguments
-* [VisioAddin](https://github.com/SimioLLC/VisioAddin) - Design time user extension to pull in Visio diagrams
-* [WebAPISync](https://github.com/SimioLLC/WebAPISync) - Send/receive data via HTTP during a step. Starts a WebHost
+* [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
+* [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
+* [SimioGitExample](https://github.com/SimioLLC/SimioGitExample) - How to use Git for version control, allowing multiple users to work on a Simio Project
+* [UsingGitHub](https://github.com/SimioLLC/UsingGitHub) - Documents and resources to help use GitHub in the Simio Forum
