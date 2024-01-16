@@ -35,6 +35,7 @@ Last updated 2023-10-30
 * [AutoCADCreateLinks](https://github.com/SimioLLC/AutoCADCreateLinks) - Simio Add-In Used To Create Links usign an AutoCAD export
 * [CreateNodesAndLinksTableData](https://github.com/SimioLLC/CreateNodesAndLinksTableData) - Simio Add-In that will create the nodes and links associated to a set of selected object.
 * [EncryptTableValuesAddIn](https://github.com/SimioLLC/EncryptTableValuesAddIn) - Simio Add-In Used To Easily Encrypt Table Values
+* [Examples](https://github.com/SimioLLC/Examples) - A collection of AddIns all within a single repository
 * [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
 * [GraphSequence](https://github.com/SimioLLC/GraphSequence) - Used to create a graph of a task sequence.
 * [MatlabInterfacing](https://github.com/SimioLLC/MatlabInterfacing) - Interfacing to MATLAB via Custom Steps, etc.
