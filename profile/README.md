@@ -69,6 +69,7 @@ Last updated 2023-10-30
 ## Misc
 **[`^        back to top        ^`](#simio-github-projects-index)**
 * [EntityDataHandling](https://github.com/SimioLLC/EntityDataHandling) - So let's say you have large amounts of custom data that you wish entities to access as they roam about your simulation model... and you are willing to write custom .NET code to access and use this data. If this sounds like what your are looking for, then this example might be for you.
+* [EditExperimentRunScenarioTable](https://github.com/SimioLLC/EditExperimentRunScenarioTable) - c# Windows Form example used to edit Simio Data Tables in Simio Portal using the Simio Portal Web API.
 * [ExportPlanData](https://github.com/SimioLLC/ExportPlanData) - Export Plan Data and use IModelHelper
 * [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
 * [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
