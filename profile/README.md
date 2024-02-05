@@ -35,6 +35,7 @@ Last updated 2023-10-30
 * [AutoCADCreateLinks](https://github.com/SimioLLC/AutoCADCreateLinks) - Simio Add-In Used To Create Links usign an AutoCAD export
 * [CreateNodesAndLinksTableData](https://github.com/SimioLLC/CreateNodesAndLinksTableData) - Simio Add-In that will create the nodes and links associated to a set of selected object.
 * [EncryptTableValuesAddIn](https://github.com/SimioLLC/EncryptTableValuesAddIn) - Simio Add-In Used To Easily Encrypt Table Values
+* [ExportImportModelAddIn](https://github.com/SimioLLC/ExportImportModelAddIn) - Simio Add-In Used To Export, Import and Delete a variety of Simio objects, links, table data, etc... from your model.  This add-in provides a quick way modify your model.  It is also a great resource for understanding the Simio Design Time API.Used To Easily Encrypt Table Values
 * [Examples](https://github.com/SimioLLC/Examples) - A collection of AddIns all within a single repository
 * [ExportImportModel](https://github.com/SimioLLC/ExportImportModels) - AddIn to Export and Import Simio data and objects
 * [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
