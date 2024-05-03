@@ -25,7 +25,7 @@ Last updated 2024-03-14
 ## Data Connectors and Transformers
 **[`^        back to top        ^`](#simio-github-projects-index)**
 * [AddObjectsGridData](https://github.com/SimioLLC/AddObjectsGridData) - Simio Data Transformer used to create objects bases on model control values.
-* [AmazonS3CSVGridData](https://github.com/SimioLLC/AmazonS3CSVGridData) - Retreive data from / to Amazon S3
+* [AmazonS3VGridData](https://github.com/SimioLLC/AmazonS3GridData) - Retreive data from / to Amazon S3
 * [AzureBlobStorageGridData](https://github.com/SimioLLC/AzureBlobStorageGridData) - Retreive data from / to Azure Blob Storage
 * [MQTTGridData](https://github.com/SimioLLC/MQTTGridData) - Subscribe and Publish data to MQTT
 * [PostgreSQLGridData](https://github.com/SimioLLC/PostgreSQLGridData) - Retreive data from / to PostgreSQL
