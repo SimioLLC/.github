@@ -41,6 +41,7 @@ Last updated 2024-05-03
 * [ExportImportModelAddIn](https://github.com/SimioLLC/ExportImportModelAddIn) - Simio Add-In Used To Export, Import and Delete a variety of Simio objects, links, table data, etc... from your model.  This add-in provides a quick way modify your model.  It is also a great resource for understanding the Simio Design Time API.
 * [Examples](https://github.com/SimioLLC/Examples) - A collection of AddIns all within a single repository
 * [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
+* [GitHelper](https://github.com/SimioLLC/GitHeler) - Simio AddIn to assist with using Git with Simio. Assumes VSCode is installed.
 * [GraphSequence](https://github.com/SimioLLC/GraphSequence) - Used to create a graph of a task sequence.
 * [MatlabInterfacing](https://github.com/SimioLLC/MatlabInterfacing) - Interfacing to MATLAB via Custom Steps, etc.
 * [ImportObjectsFromExcelUsingEPPlus](https://github.com/SimioLLC/ImportObjectsFromExcelUsingEPPlus) - Simio Add-In that imports Excel spreadsheet using the open source EPPlus package (from GitHub).
