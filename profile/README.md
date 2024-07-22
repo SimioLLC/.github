@@ -76,6 +76,5 @@ Last updated 2024-05-03
 * [ExportPlanData](https://github.com/SimioLLC/ExportPlanData) - Export Plan Data and use IModelHelper
 * [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
 * [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
-* [SimioGitExample](https://github.com/SimioLLC/SimioGitExample) - How to use Git for version control, allowing multiple users to work on a Simio Project
 * [StylesheetTest](https://github.com/SimioLLC/StylesheetTest) - Windows forms application used to test and create XSLTs.  This also has a method to view a Simio Process Hierarchy view.
 * [UsingGitHub](https://github.com/SimioLLC/UsingGitHub) - Documents and resources to help use GitHub in the Simio Forum
