@@ -3,11 +3,12 @@
 Below you will find a list of the Open Source projects released by the Simio Team. These projects are released under their respective licenses and support is not guaranteed. If you encounter any issues please open a GitHub issue on the respective project.
 
 ---
-Last updated 2024-05-03
+Last updated 2025-03-04
 
 ---
 
 ## Table of Contents
+* [API Libraries](#libraries)
 * [Automations](#automations)
 * [Data Connectors and Transformers](#data-connectors-and-transformers)
 * [Design Add-Ins](#design-add-ins)
@@ -15,6 +16,10 @@ Last updated 2024-05-03
 * [Third-Party Integrations](#third-party-integrations)
 * [Misc](#misc)
 
+---
+## Libraries
+**[`^        back to top        ^`](#simio-github-projects-index)**
+* [pySimio](https://github.com/SimioLLC/pySimio) - Python Library used as a wrapper for the Simio Portal REST API
 ---
 ## Automations
 **[`^        back to top        ^`](#simio-github-projects-index)**
