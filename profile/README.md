@@ -23,8 +23,6 @@ Last updated 2025-03-04
 ---
 ## Automations
 **[`^        back to top        ^`](#simio-github-projects-index)**
-* [RunSimioPortalExpConsole](https://github.com/SimioLLC/RunSimioPortalExpConsole) - Console application to build workflows and tasks on Simio Portal. Uses Simio Portal as Web API
-* [RunSimioSchedule](https://github.com/SimioLLC/RunSimioSchedule) - Run a Simio Schedule in "Headless" mode using Simio Desktop
 
 ---
 ## Data Connectors and Transformers
@@ -46,7 +44,6 @@ Last updated 2025-03-04
 * [ExportImportModelAddIn](https://github.com/SimioLLC/ExportImportModelAddIn) - Simio Add-In Used To Export, Import and Delete a variety of Simio objects, links, table data, etc... from your model.  This add-in provides a quick way modify your model.  It is also a great resource for understanding the Simio Design Time API.
 * [Examples](https://github.com/SimioLLC/Examples) - A collection of AddIns all within a single repository
 * [GisInterface](https://github.com/SimioLLC/GisInterface) - Simio AddIn to create Simio Models from GIS APIs (e.g. Bing Maps)
-* [GitHelper](https://github.com/SimioLLC/GitHeler) - Simio AddIn to assist with using Git with Simio. Assumes VSCode is installed.
 * [GraphSequence](https://github.com/SimioLLC/GraphSequence) - Used to create a graph of a task sequence.
 * [MatlabInterfacing](https://github.com/SimioLLC/MatlabInterfacing) - Interfacing to MATLAB via Custom Steps, etc.
 * [ImportObjectsFromExcelUsingEPPlus](https://github.com/SimioLLC/ImportObjectsFromExcelUsingEPPlus) - Simio Add-In that imports Excel spreadsheet using the open source EPPlus package (from GitHub).
@@ -59,7 +56,6 @@ Last updated 2025-03-04
 * [BeepStep](https://github.com/SimioLLC/BeepStep) - Simplest of all user-defined steps; it just beeps!
 * [CustomCalculationSteps](https://github.com/SimioLLC/CustomCalculationSteps) - Samples using Custom Steps to interact with Simio at run-time
 * [DbWriteMultipleRows](https://github.com/SimioLLC/DbWriteMultipleRows) - This repository show user steps and element used to read and write data to a database using a Simio Output Table
-* [EmulatingWorldTime](https://github.com/SimioLLC/EmulatingWorldTime) - Demonstrates how Simio can be customized to run in world/real time and communicate with an external device
 * [MqttSteps](https://github.com/SimioLLC/MqttSteps) - UserDefined Steps form MQTT actions (Publish, Subscribe, RPC)
 * [MQTTSync](https://github.com/SimioLLC/MQTTSync) - Runtime integration with MQTT 
 * [NotifyExternalStep](https://github.com/SimioLLC/NotifyExternalStep) - A Process Step to notify something external to Simio and optionally stop. Used when running Experiments headless.
@@ -82,4 +78,3 @@ Last updated 2025-03-04
 * [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
 * [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
 * [StylesheetTest](https://github.com/SimioLLC/StylesheetTest) - Windows forms application used to test and create XSLTs.  This also has a method to view a Simio Process Hierarchy view.
-* [UsingGitHub](https://github.com/SimioLLC/UsingGitHub) - Documents and resources to help use GitHub in the Simio Forum
