@@ -3,7 +3,7 @@
 Below you will find a list of the Open Source projects released by the Simio Team. These projects are released under their respective licenses and support is not guaranteed. If you encounter any issues please open a GitHub issue on the respective project.
 
 ---
-Last updated 2025-03-04
+Last updated 2025-09-29
 
 ---
 
@@ -20,6 +20,7 @@ Last updated 2025-03-04
 ## Libraries
 **[`^        back to top        ^`](#simio-github-projects-index)**
 * [pySimio](https://github.com/SimioLLC/pySimio) - Python Library used as a wrapper for the Simio Portal REST API
+
 ---
 ## Automations
 **[`^        back to top        ^`](#simio-github-projects-index)**
@@ -62,6 +63,8 @@ Last updated 2025-03-04
 * [NotifyExternalStep](https://github.com/SimioLLC/NotifyExternalStep) - A Process Step to notify something external to Simio and optionally stop. Used when running Experiments headless.
 * [RunExecutableStep](https://github.com/SimioLLC/RunExecutableStep) - A Simio user-defined Step to run and executable with arguments
 * [WebAPISync](https://github.com/SimioLLC/WebAPISync) - Send/receive data via HTTP during a step. Starts a WebHost
+* [CallPython](https://github.com/SimioLLC/CallPython) - Simple step to demonstrate the ability to make a python call as a logic step
+* [TestStepAndElement](https://github.com/SimioLLC/TestStepAndElement) - Simple project use show the inteaction capabilities between steps and elements
 
 ---
 ## Third-Party Integrations
@@ -82,8 +85,6 @@ Last updated 2025-03-04
 * [PythonExamplesInSimio](https://github.com/SimioLLC/PythonExamplesInSimio) - A collection of working example models demonstrating common use cases using Python within Simio Steps and interacting with Simio API
 * [OmniverseConnector](https://github.com/SimioLLC/OmniverseConnector) - Simio steps and data connectors for interacting with Nvidia Omniverse
 * [GitFlow](https://github.com/SimioLLC/GitFlow) - This library exposes core Git functions in Simio.
-* [CallPython](https://github.com/SimioLLC/CallPython) - Simple step to demonstrate the ability to make a python call as a logic step
 * [Videos](https://github.com/SimioLLC/Videos) - Location for Videos relating to the Simio repositories
-* [TestStepAndElement](https://github.com/SimioLLC/TestStepAndElement) - Simple project use show the inteaction capabilities between steps and elements
 * [RunOnnxRuntimeConsole](https://github.com/SimioLLC/RunOnnxRuntimeConsole) - Windows Console Application that loads an Onnx Model and Runs Neural Network (NN) based on command line arguements. The first arguement is the path and model name. The rest of the auguments are the input parameters for the NN. The output (predicted value) will be written to the console.
 * [LegoSpikePrimeARMIntegrationUsingMQTT](https://github.com/SimioLLC/LegoSpikePrimeARMIntegrationUsingMQTT)
