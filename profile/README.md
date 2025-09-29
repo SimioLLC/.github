@@ -34,6 +34,7 @@ Last updated 2025-03-04
 * [PostgreSQLGridData](https://github.com/SimioLLC/PostgreSQLGridData) - Retreive data from / to PostgreSQL
 * [SQLiteGridData](https://github.com/SimioLLC/SQLiteGridData) - Simio Data Connector To / From SQLite 
 * [XSLTTransformerGridData](https://github.com/SimioLLC/XSLTTransformerGridData) - Simio Data Transformer to transform data from one or more Simio Data Table into another Simio Data Table using an XSLT. 
+* [DirectConnect](https://github.com/SimioLLC/DirectConnect) - Input and Output Model data to SQL Server
 
 ---
 ## Design Add-Ins
@@ -78,3 +79,11 @@ Last updated 2025-03-04
 * [ModelTemplates](https://github.com/SimioLLC/ModelTemplates) - Simio model templates to give you a starting point
 * [SimioApiHelper](https://github.com/SimioLLC/SimioApiHelper) - API Helper. Tools to help with your Simio API environment, plus API usage examples.
 * [StylesheetTest](https://github.com/SimioLLC/StylesheetTest) - Windows forms application used to test and create XSLTs.  This also has a method to view a Simio Process Hierarchy view.
+* [PythonExamplesInSimio](https://github.com/SimioLLC/PythonExamplesInSimio) - A collection of working example models demonstrating common use cases using Python within Simio Steps and interacting with Simio API
+* [OmniverseConnector](https://github.com/SimioLLC/OmniverseConnector) - Simio steps and data connectors for interacting with Nvidia Omniverse
+* [GitFlow](https://github.com/SimioLLC/GitFlow) - This library exposes core Git functions in Simio.
+* [CallPython](https://github.com/SimioLLC/CallPython) - Simple step to demonstrate the ability to make a python call as a logic step
+* [Videos](https://github.com/SimioLLC/Videos) - Location for Videos relating to the Simio repositories
+* [TestStepAndElement](https://github.com/SimioLLC/TestStepAndElement) - Simple project use show the inteaction capabilities between steps and elements
+* [RunOnnxRuntimeConsole](https://github.com/SimioLLC/RunOnnxRuntimeConsole) - Windows Console Application that loads an Onnx Model and Runs Neural Network (NN) based on command line arguements. The first arguement is the path and model name. The rest of the auguments are the input parameters for the NN. The output (predicted value) will be written to the console.
+* [LegoSpikePrimeARMIntegrationUsingMQTT](https://github.com/SimioLLC/LegoSpikePrimeARMIntegrationUsingMQTT)
